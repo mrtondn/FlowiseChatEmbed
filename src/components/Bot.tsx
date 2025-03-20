@@ -167,7 +167,7 @@ export type LeadsConfig = {
   successMessage?: string;
 };
 
-const defaultWelcomeMessage = 'Hi there! How can I help?';
+const defaultWelcomeMessage = 'Chào bạn, TNUT có thể giúp gì cho bạn?';
 
 /*const sourceDocuments = [
     {
